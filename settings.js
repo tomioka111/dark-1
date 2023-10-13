@@ -3,7 +3,7 @@ const fs = require("fs")
 
 //aumto presence update
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.owner = ['201210870307'] //ur owner number
+global.ownernomer = "201210870307" //ur owner number2
+global.ownername = "🦄 إسلام" //ur owner name
+global.ytname = "hsjgsk: إسلام" //ur yt chanel name
+global.socialm = "whats: 012108706307" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
+global.botname = "dark"
+global.ownernumber = '201210870307'
+global.ownername = 'eslam'
 global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
+global.ownerweb = "https://youtube.com/@eslam.1.1?si=YhzJlwFgRi4wuHW_"
+global.websitex = "https://youtube.com/@eslam.1.1?si=YhzJlwFgRi4wuHW_"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "Eslam Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.packname = "اسرق يا حرامي"
+global.author = "eslM\n\n"
+global.creator = "201210870307@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: 'تم يسطا!', 
 }
 
 let file = require.resolve(__filename)
