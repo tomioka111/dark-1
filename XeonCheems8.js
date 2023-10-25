@@ -5211,8 +5211,7 @@ case 'لفيديو': case 'tovideo': {
               bufferdare = await getBuffer(`https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg`)
               XeonBotInc.sendMessage(from, { image: bufferdare, caption: '_*مرحبا بك في قسم تويت*_\n'+ xeondare }, {quoted:m})
               break
-                            break
-       case 'خيروك':
+                            break       case 'خيروك':
               const truth =[
     "لو خيروك |  بين الإبحار لمدة أسبوع كامل أو السفر على متن طائرة لـ 3 أيام متواصلة؟ ",
 "لو خيروك |  بين شراء منزل صغير أو استئجار فيلا كبيرة بمبلغ معقول؟ ",
