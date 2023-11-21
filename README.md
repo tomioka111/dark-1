@@ -26,7 +26,8 @@
 - اولا يجب عمل فورك للمشروع [اضغط هنا](https://github.com/botwhatssappbobiz/EslamBotlnc/fork)
 
 ## `ثم عمل سكان للباركود`
-<a href="[[https://replit.com/@allhwalkhafy3/dark-QR](https://replit.com/@jjpfov34/QR-bot-dark)]([https://replit.com/@jjpfov34/QR-bot-dark](https://replit.com/@jjpfov34/QR-bot-dark))"><img src="https://repl.it/badge/github/quiec/whatsAlfa" width="200" />
+
+<a href="https://replit.com/@jjpfov34/QR-bot-dark"><img src="https://repl.it/badge/github/quiec/whatsAlfa" width="200" />
 </a>
 #### بعد تصوير الباركود قم برفع الملف علي الاسكريبت وقم بالضغط علي زر التنصيب علي هيروكو`
 
