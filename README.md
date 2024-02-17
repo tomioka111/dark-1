@@ -27,7 +27,7 @@
 
 ## `ثم عمل سكان للباركود`
 
-<a href="[https://replit.com/@jjpfov34/QR-bot-dark](https://replit.com/@jjjcjdjdjjsjsjs/Xeon-PairCode-1)"><img src="https://repl.it/badge/github/quiec/whatsAlfa" width="200" />
+<a href="[https://replit.com/@jjjcjdjdjjsjsjs/Xeon-PairCode-1]"><img src="https://repl.it/badge/github/quiec/whatsAlfa" width="200" />
 </a>
 #### بعد تصوير الباركود قم برفع الملف علي الاسكريبت وقم بالضغط علي زر التنصيب علي هيروكو`
 
