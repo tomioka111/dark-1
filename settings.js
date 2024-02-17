@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201210870307'] //ur owner number
-global.ownernomer = "201210870307" //ur owner number2
-global.ownername = "🦄 إسلام" //ur owner name
-global.ytname = "hsjgsk: إسلام" //ur yt chanel name
-global.socialm = "whats: 012108706307" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['201277272498'] //ur owner number
+global.ownernomer = "201277272498" //ur owner number2
+global.ownername = "YoUsSeF Al SoLtAn" //ur owner name
+global.ytname = "YOUSSEF-AL.SOLTAN" //ur yt chanel name
+global.socialm = "whats: 201277272498 //ur github or insta name
+global.location = "Egypt, Alex, Alex" //ur location
 
 //new
-global.botname = "dark"
-global.ownernumber = '201210870307'
-global.ownername = 'eslam'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@eslam.1.1?si=YhzJlwFgRi4wuHW_"
-global.websitex = "https://youtube.com/@eslam.1.1?si=YhzJlwFgRi4wuHW_"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.botname = "BOT AL SOLTAN"
+global.ownernumber = '201277272498'
+global.ownername = 'YOUSSEF AL SOLTAN'
+global.ownerNumber = ["201277272498@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@YOUSSEF-ALSOLTN?si=yBGRYrmHBxF_7bqf"
+global.websitex = "https://youtube.com/@YOUSSEF-ALSOLTN?si=yBGRYrmHBxF_7bqf"
+global.wagc = "https://whatsapp.com/channel/0029VaL2bnW0rGiPZq8B5S2M"
 global.themeemoji = '🪀'
-global.wm = "Eslam Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "اسرق يا حرامي"
-global.author = "eslM\n\n"
-global.creator = "201210870307@s.whatsapp.net"
+global.wm = " Bot AL SOLTAN Inc."
+global.botscript = 'https://whatsapp.com/channel/0029VaL2bnW0rGiPZq8B5S2M' //script link
+global.packname = "BOT | By: youssef al soltan"
+global.author = "bot alsoltan\n\n"
+global.creator = "201277272498@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'تم يسطا!', 
+    success: '*تم ياعزيزي!*', 
 }
 
 let file = require.resolve(__filename)
