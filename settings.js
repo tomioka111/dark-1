@@ -24,12 +24,12 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['201277272498'] //ur owner number
 global.ownernomer = "201277272498" //ur owner number2
 global.ownername = "YoUsSeF Al SoLtAn" //ur owner name
-global.ytname = "YOUSSEF-AL.SOLTAN" //ur yt chanel name
-global.socialm = "whats: 201277272498 //ur github or insta name
+global.ytname = "YOUSSEF-ALSOLTAN: اشترك في قناه المطور" //ur yt chanel name
+global.socialm = "whats: 01277272498" //ur github or insta name
 global.location = "Egypt, Alex, Alex" //ur location
 
 //new
-global.botname = "BOT AL SOLTAN"
+global.botname = "Bot Al Soltan"
 global.ownernumber = '201277272498'
 global.ownername = 'YOUSSEF AL SOLTAN'
 global.ownerNumber = ["201277272498@s.whatsapp.net"]
@@ -37,10 +37,10 @@ global.ownerweb = "https://youtube.com/@YOUSSEF-ALSOLTN?si=yBGRYrmHBxF_7bqf"
 global.websitex = "https://youtube.com/@YOUSSEF-ALSOLTN?si=yBGRYrmHBxF_7bqf"
 global.wagc = "https://whatsapp.com/channel/0029VaL2bnW0rGiPZq8B5S2M"
 global.themeemoji = '🪀'
-global.wm = " Bot AL SOLTAN Inc."
+global.wm = "Al Soltan Bot Inc."
 global.botscript = 'https://whatsapp.com/channel/0029VaL2bnW0rGiPZq8B5S2M' //script link
-global.packname = "BOT | By: youssef al soltan"
-global.author = "bot alsoltan\n\n"
+global.packname = "By Youssef Al Soltan"
+global.author = "BOT AL SOLTAN\n\n"
 global.creator = "201277272498@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
