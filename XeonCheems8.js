@@ -2390,7 +2390,7 @@ text: `• مرحبا ياروحي ⤌⤈      
 ( .حروف )
 ♚ البوت يرسلك حروف تكملها
 ꔹ━━━━━ꔹ
-لوك`,
+*By: Youssef Al Soltan*`,
 mentions:[sender],
 contextInfo:{
 mentionedJid:[sender],
